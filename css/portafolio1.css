@@ -1,0 +1,39 @@
+*{
+    padding:0;
+    margin:0;
+}
+.Inicio{
+    background-color: black;
+    color: black;
+    text-align: end;
+    list-style-type: none;
+    padding: 15px;
+}
+
+.Inicio li{
+    display: inline-block;
+
+}
+.Inicio a{
+    color: white;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    padding: 15px;
+}
+
+body{
+
+    background-image: url(../imagen/normal.jpg);
+    background-size: cover;
+    opacity: 0.6;
+}
+.info{
+    text-align: center;
+    padding: 200px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+

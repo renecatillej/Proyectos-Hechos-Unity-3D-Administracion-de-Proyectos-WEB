@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.menu li{
+    display: inline-block;
+    padding: 20px;
+}
+
+
+.menu ol{
+    background-color: rgb(21, 21, 41);
+    text-align: center;    
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.imgen{
+    
+}
